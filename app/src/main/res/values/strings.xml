@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxiFareCalculator</string>
+    <string name="title_activity_maps">TaxiFarecalculator</string>
+    <string name="restart_btn">Restart</string>
+
+</resources>
